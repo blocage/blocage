@@ -14,7 +14,7 @@
   <img
     height="152.3"
     align="top"
-    src="https://github-stats-extended-fizssirqh-davids-projects-ad77adcc.vercel.app/api?username=blocage&show_icons=true&theme=radical&no-frame=true&hide=contribs&column=-1"
+    src="https://github-stats-extended-fizssirqh-davids-projects-ad77adcc.vercel.app/api?username=blocage&show_icons=true&theme=radical&no-frame=true&hide=contribs,stars,prs&column=-1&show=discussions_started,discussions_answered"
   />
 </p>
 
