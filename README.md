@@ -12,7 +12,7 @@
     src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=blocage&theme=radical"
   />
   <img
-    height="151.9"
+    height="152.3"
     align="top"
     src="https://github-stats-extended-fizssirqh-davids-projects-ad77adcc.vercel.app/api?username=blocage&show_icons=true&theme=radical&no-frame=true&hide=contribs&column=-1"
   />
